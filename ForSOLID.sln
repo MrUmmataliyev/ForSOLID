@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForSOLID", "ForSOLID\ForSOLID.csproj", "{007CB54F-ED4A-4540-A845-50520BDA661B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007CB54F-ED4A-4540-A845-50520BDA661B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007CB54F-ED4A-4540-A845-50520BDA661B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007CB54F-ED4A-4540-A845-50520BDA661B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007CB54F-ED4A-4540-A845-50520BDA661B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBA6CC8-5025-45FB-A153-6886E9088D3F}
+	EndGlobalSection
+EndGlobal
